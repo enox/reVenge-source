@@ -1,1 +1,4 @@
-github-test: enox reVenge custom rom series source ....  by enox®
+enox reVenge custom design source for Android modifications / custom rom´s  by enox®
+
+
+all rights reserved enox®
